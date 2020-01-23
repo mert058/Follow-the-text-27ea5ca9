@@ -1,0 +1,10 @@
+.icon{ position: fixed;
+top: 0px; left: 1500px;
+
+}
+
+@media (tooltip: tooltip) {
+  a: tooltip {
+    background: black;
+}
+}
